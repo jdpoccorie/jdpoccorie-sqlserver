@@ -1,0 +1,1 @@
+-- Por compatibilidad con sistemas antiguos, cuando muestre el reporte de clientes, si no tiene fax, mostrar 
